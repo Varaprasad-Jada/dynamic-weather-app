@@ -1,4 +1,5 @@
 # Dynamic Weather App
+
 A responsive web application that fetches and displays current weather information for any city using the OpenWeatherMap API. The design is inspired by the modern glassmorphism UI trend, ensuring a clean and visually appealing experience that automatically adapts to various device screen sizes (mobile, tablet, desktop).
 
 ## ✨ Features
@@ -36,7 +37,7 @@ A responsive web application that fetches and displays current weather informati
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/dynamic-weather-app.git](https://github.com/YourUsername/dynamic-weather-app.git)
+    git clone [https://github.com/Varaprasad-Jada/dynamic-weather-app.git](https://github.com/Varaprasad-Jada/dynamic-weather-app.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -48,8 +49,8 @@ A responsive web application that fetches and displays current weather informati
 ## 🌐 Live Demo
 
 You can see a live demo of the Weather App here:
-[https://YourUsername.github.io/dynamic-weather-app/](https://YourUsername.github.io/dynamic-weather-app/)
-*(Remember to replace `YourUsername` and `dynamic-weather-app` with your actual GitHub username and repository name after deployment.)*
+[https://Varaprasad-Jada.github.io/dynamic-weather-app/](https://Varaprasad-Jada.github.io/dynamic-weather-app/)
+*(Remember to replace `Varaprasad-Jada` and `dynamic-weather-app` with your actual GitHub username and repository name after deployment.)*
 
 ## 📸 Screenshots
 
